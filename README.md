@@ -2,7 +2,7 @@
   <img align="right" alt="Amanda-pic" height="140" style="border-radius:50px;" src="https://uploads.spiritfanfiction.com/historias/capitulos/201701/um-bad-boy-que-eu-amo-7899207-300120170955.jpg">
 </div>
 
-## Olá, eu sou a <i>Amanda</font> e aqui estão algumas informações do meu perfil:
+## Wazaap, my name's Amanda and here you can find some things 'bout me:
 
 <div> <br>
   <a href="https://instagram.com/amxands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
