@@ -5,7 +5,7 @@
 ## Wazaap, my name's Amanda and here you can find some things 'bout me:
 
 <div> <br>
-  <a href="https://instagram.com/amxands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   <a href = "mailto:hey.amanda@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-mayara-melo-de-matos-96812a194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -21,11 +21,11 @@
 </div>
 
 
-![Snake animation](https://github.com/amxanda/amxanda/blob/output/github-contribution-grid-snake.svg)
+!![Snake animation](https://github.com/amxanda/amxanda/blob/output/github-contribution-grid-snake.svg)
 <br><br><br>
 
-## 
- 
+## Languages and tools:
+    
 <div align="right" style="display: inline_block"><br>
   <img align="center" alt="Amanda-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Amanda-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
